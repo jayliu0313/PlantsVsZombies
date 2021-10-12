@@ -1,6 +1,7 @@
 名稱:植物大戰殭屍
 語言:Java
 這是一款建造植物與殭屍對抗的遊戲。
+目前有三種植物一起對抗殭屍，未來會越來越多種。
 結束後會顯示排行榜!
 ![image](https://user-images.githubusercontent.com/43268022/136892612-85934b8d-9deb-43eb-b673-04e6f6eadab8.png)
 ![image](https://user-images.githubusercontent.com/43268022/136892666-401ebf43-2f9f-4234-8c94-735905ae8462.png)
